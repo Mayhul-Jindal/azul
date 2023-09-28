@@ -1,0 +1,4 @@
+id: file://<WORKSPACE>/scala/hello.scala:[7..7) in Input.VirtualFile("file://<WORKSPACE>/scala/hello.scala", "object ")
+file://<WORKSPACE>/scala/hello.scala:1: error: expected identifier; obtained eof
+object 
+       ^

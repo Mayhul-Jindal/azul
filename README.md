@@ -8,6 +8,14 @@
 - [ ] Singleton
 
 ## Garbage-Collection
+- [X] Why we need garbage collection
+- [X] Which garbage collector to choose
+- [ ] Mark and Sweep
+- [ ] Tricolor abstraction to build concurrent garbage collector
+- [ ] Why caching would not speed up Mark-and-Sweep GC?
+- [ ] C4 (Continuously Concurrent Compacting Collector)
+
+
 ![WhatsApp Image 2023-09-29 at 2 45 45 PM](https://github.com/Mayhul-Jindal/azul/assets/95216160/e4b0894d-4afa-4204-868d-663e700aadd2)
 ![WhatsApp Image 2023-09-29 at 2 46 06 PM](https://github.com/Mayhul-Jindal/azul/assets/95216160/881b645e-5cb1-4b3f-bf80-8721c4e7f7c7)
 ![WhatsApp Image 2023-09-29 at 2 46 39 PM](https://github.com/Mayhul-Jindal/azul/assets/95216160/37badfe4-f79b-4896-a565-4894f8fd4a97)

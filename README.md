@@ -8,6 +8,11 @@
 - [X] Singleton
 - [X] Adapter
 - [X] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
 
 ## Garbage-Collection
 - [X] Why we need garbage collection
